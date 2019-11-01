@@ -1,9 +1,10 @@
 ## Making a Project Website
 
+### Goal
+
+My Goal is to find what causes error in the stability of a boom by scrubbing through data of field running.
 
 ### Project Workflow
-
-Here's our logo (hover to see the title text):
 
 Project Workflow:
 
