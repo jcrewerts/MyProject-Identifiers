@@ -10,6 +10,9 @@ Project Workflow:
 
 ![Project Workflow](https://github.com/jcrewerts/MyProject-Identifiers/blob/master/ProjectWorkflow.png)
 
+### Objectives
+Why is there error?
+
 ### Configuration variables
 
 This instruction is specific to the slate theme but should translate well to other themes.  You can change default variables in your website build by making changes in your `_config.yml` file:
