@@ -2,7 +2,7 @@
 
 ### Goal
 
-My Goal is to find what causes error in the stability of a boom by scrubbing through data of field running.
+My goal is to find what causes error in the stability of a boom by scrubbing through data of field running.
 
 ### Project Workflow
 
