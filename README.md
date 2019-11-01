@@ -8,7 +8,7 @@ My goal is to find what causes error in the stability of a boom by scrubbing thr
 
 Project Workflow:
 
-![Project Workflow](https://github.com/jcrewerts/MyProject-Identifiers/blob/master/ProjectWorkflow.png)
+![Project Workflow](ProjectWorkflow.png)
 
 ### Objectives
 Why is there error?
