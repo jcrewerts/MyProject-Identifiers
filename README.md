@@ -5,8 +5,7 @@
 
 Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/jcrewerts/MyProject-Identifiers/ProjectWorkflow.png "Project Workflow")
+(https://github.com/jcrewerts/MyProject-Identifiers/ProjectWorkflow.png "Project Workflow")
 
 ### Configuration variables
 
