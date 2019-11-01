@@ -1,5 +1,11 @@
 ## Making a Project Website
 
+### About
+
+My name is Jake and I am a graduate student studying off-highway equipment.
+
+![Jake]('Head Shot.png')
+
 ### Goal
 
 My goal is to find what causes error in the stability of a boom by scrubbing through data of field running.
