@@ -6,7 +6,9 @@
 Here's our logo (hover to see the title text):
 
 Inline-style: 
-![Identifiers in Boom Control Error](https://github.com/jcrewerts/MyProject-Identifiers/ProjectWorkflow.png "Project Workflow")
+![Project Workflow](https://github.com/jcrewerts/MyProject-Identifiers/ProjectWorkflow.png)
+
+![]()
 
 ### Configuration variables
 
