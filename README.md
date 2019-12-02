@@ -4,7 +4,7 @@
 
 My name is Jake and I am a graduate student studying off-highway equipment.
 
-![Jake](HeadShot.jpg)
+![Jake](HeadShot.jpg | width=100)
 
 
 
