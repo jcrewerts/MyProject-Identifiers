@@ -18,6 +18,8 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 * Add picture of boom desciritpion (POS Presentation YAW roll pitch)
 
+<img src="SixDOF.png" width="800" height="300">
+
 #### Clear data analysis question 
 
 * What is my research question, look back at paragrpah. This is will just be a big heading
