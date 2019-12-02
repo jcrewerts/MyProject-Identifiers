@@ -19,6 +19,28 @@ Project Workflow:
 ### Objectives
 Why is there error?
 
+#### Introduction to a research question (what is the background on this subject; why does the question matter; who will it help; how has been attempted to be answered)
+
+#### Clear data analysis question 
+
+#### Clear identification of data inputs
+
+#### Clear identification of analysis methods (workflows would be great here) and their advantages and disadvantages 
+
+Specifically, I would like to see a written discussion on the website of the following:
+
+#### Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
+
+#### Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
+
+#### Creation of one assignment based on your dataset for the class to complete - one can think of this of a task or homework assignment based on your project.
+
+#### Other things I will look for:
+
+* Inclusion of statistical tools
+
+* Publication of workflow in a version controlled manner (your code should be on github)
+
 ### Configuration variables
 
 This instruction is specific to the slate theme but should translate well to other themes.  You can change default variables in your website build by making changes in your `_config.yml` file:
