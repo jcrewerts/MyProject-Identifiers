@@ -27,7 +27,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 * Feature list with descriptions
 
-##### Features
+### Features
 
 __Center Frame Roll Rate Deere Sensor__ - Description of center frame roll rate using IMU
 
