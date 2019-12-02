@@ -4,8 +4,7 @@
 
 My name is Jake and I am a graduate student studying off-highway equipment.
 
-![Jake](HeadShot.jpg){:height="200px" width="200px"}
-<img src="HeadShot.jpg" width="100" height="100">
+<img src="HeadShot.jpg" width="200" height="200">
 
 
 ### Goal
