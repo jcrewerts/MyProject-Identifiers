@@ -10,7 +10,26 @@ My name is Jake and I am a graduate student studying off-highway equipment.
 
 My goal is to find what causes error in the stability of a boom by scrubbing through data of field running.
 
+What kind of data is avialble?  How is your data collected?  Are there any concerns about the data?  Which data is the most relevant?  Is the data easy to acccess? Will the data change over time?  What needs to be done to the data to get it ready for any downstream analysis?
+
+#### Paragraph on what my research is about and what I want to solve
+
+* Add picture of field we are testing
+
+* Add picture of boom desciritpion (POS Presentation YAW roll pitch)
+
 #### Clear data analysis question 
+
+* What is my research question, look back at paragrpah. This is will just be a big heading
+
+
+#### Clear identification of data inputs
+
+* Feature list with descriptions
+
+
+
+#### Analysis Methods
 
 ### Project Workflow
 
@@ -18,27 +37,59 @@ Project Workflow:
 
 ![Project Workflow](ProjectWorkflow.png)
 
-#### Clear identification of data inputs
+#### Matlab
 
-*Explanation of Work flow
+* Add picture of matlab scripting
 
-#### Clear identification of analysis methods (workflows would be great here) and their advantages and disadvantages 
+* Add picture of DownSample
 
-Specifically, I would like to see a written discussion on the website of the following:
+* Add picture of if loop
 
-#### Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
+* Add picture of if loop for Error (description)
+
+* Add picture of data table
+
+#### Python
+
+* Pulling in dataset
+
+* Heat Map correlation
+
+* From heat map, this is a jointplot I created
+
+* creating statistcal methods
+
+*Create Random forest machine learning test dataset and training dataset
+
+* Ranked decisions with explanation
+
+*Features IMportance - Condition
+
+* Decision Tree Picture from website
+
+* Add if we take away speed condition with mask
+
+* Add how I masked it
+
+#### Pros and Cons of using Random Forest/Decison Tree
+
+### Paragraph on topics below
+
+Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
 
 ### Objectives
 Why is there error?
 
-#### Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
+### Repeatability
+
+Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
 
 * How do I automate this analysis
 * Add steps
 
-## Questions for Website from Canvas
+### Task for Class
 
-#### Creation of one assignment based on your dataset for the class to complete - one can think of this of a task or homework assignment based on your project. (TASK)
+* Task about CSV of Ramp and creating Decision Tree. How does this relate to the E-W runs
 
 #### Other things I will look for:
 
@@ -47,27 +98,6 @@ Why is there error?
 * Publication of workflow in a version controlled manner (your code should be on github)
 
 * What did you learn and do the results make sense?  Revisit your initial question and answer it.  H
-
-
-## Suggestions for Project Reporting
-
-### Interesting question 
-
-What is the scientitifc goal?  What would you do if you had all the data?  What do you want to predict or estimate?  Why is this relevant to ABE researchers or the field?  Provide some background on the rationale and relevance.
-
-### Data description
-
-What kind of data is avialble?  How is your data collected?  Are there any concerns about the data?  Which data is the most relevant?  Is the data easy to acccess? Will the data change over time?  What needs to be done to the data to get it ready for any downstream analysis?
-
-### Explore the data
-
-Demonstrate what you would do to describe the data and if it has any patterns or anomolies.  Make some plots.
-
-### Model the data
-
-Build a model, fit the model, validate the model.
-
-### Communciate and visualize the results
 
 
 
