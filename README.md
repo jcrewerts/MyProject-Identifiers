@@ -21,10 +21,11 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 <img src="SixDOF.PNG" width="800" height="300">
 Figure 1: TARS Translational Motion Source: Honeywell
 
-#### Clear data analysis question 
+### Data Analysis Questions
 
-* What is my research question, look back at paragrpah. This is will just be a big heading
-
+1. What predictors can we use to spot error in the system while in field conditions?
+2. Can we somehow change the model we currently use so we are more efficient in testing? e.g. remove insignificant variables
+3. How do we go about fixing features that are triggering events in boom unstability and error?
 
 #### Clear identification of data inputs
 
@@ -72,6 +73,7 @@ __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and 
 Project Workflow:
 
 ![Project Workflow](WorkFlow.png)
+Figure 2: Project Workflow
 
 ### Matlab
 
