@@ -19,6 +19,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 * Add picture of boom desciritpion (POS Presentation YAW roll pitch)
 
 <img src="SixDOF.PNG" width="800" height="300">
+Figure 1: TARS Translational Motion Source: Honeywell
 
 #### Clear data analysis question 
 
