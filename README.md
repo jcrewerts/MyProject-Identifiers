@@ -19,6 +19,8 @@ Project Workflow:
 ### Objectives
 Why is there error?
 
+### Questions for Website from Canvas
+
 #### Introduction to a research question (what is the background on this subject; why does the question matter; who will it help; how has been attempted to be answered)
 
 #### Clear data analysis question 
