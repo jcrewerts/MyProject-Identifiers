@@ -142,9 +142,14 @@ Ability to automate and reproduce your analysis (if the file input were to chang
 ### Data Analysis Questions - Answered
 
 Q. What predictors can we use to spot error in the system while in field conditions?
+
 A. fdd
+
 Q. Can we somehow change the model we currently use so we are more efficient in testing? e.g. remove insignificant variables
+
 A. fdkf
+
 Q. How do we go about fixing features that are triggering events in boom unstability and error?
+
 A. fdfkd
 
