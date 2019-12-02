@@ -124,20 +124,15 @@ Incorporation of topics relevant to this class  - what from the class did you us
 
 Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
 
+* Add links to python and matlab script
 * How do I automate this analysis
 * Add steps
-
-### Task for Class
-
-* Task about CSV of Ramp and creating Decision Tree. How does this relate to the E-W runs
 
 #### Other things I will look for:
 
 * Inclusion of statistical tools
 
 * Publication of workflow in a version controlled manner (your code should be on github)
-
-* What did you learn and do the results make sense?  Revisit your initial question and answer it.  H
 
 ### Data Analysis Questions - Answered
 
@@ -153,3 +148,6 @@ Q. How do we go about fixing features that are triggering events in boom unstabi
 
 A. fdfkd
 
+### Task for Class
+
+* Task about CSV of Ramp and creating Decision Tree. How does this relate to the E-W runs
