@@ -30,8 +30,11 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 ##### Features
 
 Center Frame Roll Rate Deere Sensor - 
+
 Center Frame Roll Rate LVDT - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
+
 Cylinder Pressure - Max pressure of the tilt cylinders at a given time
+
 Speed - Speed of the self propelled sprayer in km/h
 Tilt Up Command - Speed commanded to raise the boom of the sprayer by the tilt cylidners [deg/sec]
 Tilt Down Command - Speed commanded to lower the boom of the sprayer by the tilt cylidners [deg/sec]
