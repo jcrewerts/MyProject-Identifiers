@@ -4,7 +4,7 @@
 
 My name is Jake and I am a graduate student studying off-highway equipment.
 
-<img src="HeadShot.jpg" width="200" height="200">
+<img src="HeadShot.jpg" width="400" height="400">
 
 ### Introduction to a research question (what is the background on this subject; why does the question matter; who will it help; how has been attempted to be answered)
 
