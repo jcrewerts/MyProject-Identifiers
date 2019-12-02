@@ -29,25 +29,37 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 ##### Features
 
-Center Frame Roll Rate Deere Sensor - 
+__Center Frame Roll Rate Deere Sensor__ - Description of center frame roll rate using IMU
 
-Center Frame Roll Rate LVDT - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
+__Center Frame Roll Rate LVDT__ - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
 
-Cylinder Pressure - Max pressure of the tilt cylinders at a given time
+__Cylinder Pressure__ - Max pressure of the tilt cylinders at a given time
 
-Speed - Speed of the self propelled sprayer in km/h
-Tilt Up Command - Speed commanded to raise the boom of the sprayer by the tilt cylidners [deg/sec]
-Tilt Down Command - Speed commanded to lower the boom of the sprayer by the tilt cylidners [deg/sec]
-State Condition - Whether the machine is starting/stopping, state 0, or running in the field, state 1
-Inlet Pressure - System pressure of the machine
-Chassis Pitch Rate - Rate at which the chassis of the self propelled sprayer pitches
-Chassis Roll Angle - Angle at which the chassis of the self propelled sprayer rolls
-Chassis Roll Rate - Rate at whcih the chassis of the self propelled sprayer rolls
-Chassis Yaw Rate - Rate at whcih the chassis of the self propelled sprayer experiences yaw
-Right Front Potentiometer - Linear distance the right front tire strokes in and out from the chassis
-Left Front Potentiometer - Linear distance the left front tire strokes in and out from the chassis
-Right Rear Potentiometer - Linear distance the right rear tire strokes in and out from the chassis
-Left Rear Potentiometer - Linear distance the left rear tire strokes in and out from the chassis
+__Speed__ - Speed of the self propelled sprayer in km/h
+
+__Tilt Up Command__ - Speed commanded to raise the boom of the sprayer by the tilt cylidners deg/sec
+
+__Tilt Down Command__ - Speed commanded to lower the boom of the sprayer by the tilt cylidners deg/sec
+
+__State Condition__ - Whether the machine is starting/stopping, state 0, or running in the field, state 1
+
+__Inlet Pressure__ - System pressure of the machine
+
+__Chassis Pitch Rate__ - Rate at which the chassis of the self propelled sprayer pitches
+
+__Chassis Roll Angle__ - Angle at which the chassis of the self propelled sprayer rolls
+
+__Chassis Roll Rate__ - Rate at whcih the chassis of the self propelled sprayer rolls
+
+__Chassis Yaw Rate__ - Rate at whcih the chassis of the self propelled sprayer experiences yaw
+
+__Right Front Potentiometer__ - Linear distance the right front tire strokes in and out from the chassis
+
+__Left Front Potentiometer__ - Linear distance the left front tire strokes in and out from the chassis
+
+__Right Rear Potentiometer__ - Linear distance the right rear tire strokes in and out from the chassis
+
+__Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and out from the chassis
 
 
 #### Analysis Methods
