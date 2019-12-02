@@ -27,7 +27,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 * Feature list with descriptions
 
-### Features
+## Features
 
 __Center Frame Roll Rate Deere Sensor__ - Description of center frame roll rate using IMU
 
@@ -62,7 +62,7 @@ __Right Rear Potentiometer__ - Linear distance the right rear tire strokes in an
 __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and out from the chassis
 
 
-#### Analysis Methods
+## Analysis Methods
 
 ### Project Workflow
 
@@ -70,7 +70,7 @@ Project Workflow:
 
 ![Project Workflow](ProjectWorkflow.png)
 
-#### Matlab
+### Matlab
 
 * Add picture of matlab scripting
 
@@ -82,7 +82,7 @@ Project Workflow:
 
 * Add picture of data table
 
-#### Python
+### Python
 
 * Pulling in dataset
 
@@ -104,14 +104,12 @@ Project Workflow:
 
 * Add how I masked it
 
-#### Pros and Cons of using Random Forest/Decison Tree
+### Pros and Cons of using Random Forest/Decison Tree
 
 ### Paragraph on topics below
 
 Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
 
-### Objectives
-Why is there error?
 
 ### Repeatability
 
