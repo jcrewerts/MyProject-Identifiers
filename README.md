@@ -27,6 +27,24 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 * Feature list with descriptions
 
+##### Features
+
+Center Frame Roll Rate Deere Sensor - 
+Center Frame Roll Rate LVDT - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
+Cylinder Pressure - Max pressure of the tilt cylinders at a given time
+Speed - Speed of the self propelled sprayer in km/h
+Tilt Up Command - Speed commanded to raise the boom of the sprayer by the tilt cylidners [deg/sec]
+Tilt Down Command - Speed commanded to lower the boom of the sprayer by the tilt cylidners [deg/sec]
+State Condition - Whether the machine is starting/stopping, state 0, or running in the field, state 1
+Inlet Pressure - System pressure of the machine
+Chassis Pitch Rate - Rate at which the chassis of the self propelled sprayer pitches
+Chassis Roll Angle - Angle at which the chassis of the self propelled sprayer rolls
+Chassis Roll Rate - Rate at whcih the chassis of the self propelled sprayer rolls
+Chassis Yaw Rate - Rate at whcih the chassis of the self propelled sprayer experiences yaw
+Right Front Potentiometer - Linear distance the right front tire strokes in and out from the chassis
+Left Front Potentiometer - Linear distance the left front tire strokes in and out from the chassis
+Right Rear Potentiometer - Linear distance the right rear tire strokes in and out from the chassis
+Left Rear Potentiometer - Linear distance the left rear tire strokes in and out from the chassis
 
 
 #### Analysis Methods
