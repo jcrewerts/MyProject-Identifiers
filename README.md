@@ -154,6 +154,16 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 
 * Decision Tree Picture from website
 
+<p align="center">
+  <img src="Photos/DecisionTree.PNG">
+</p>
+
+*Decision Tree was too spread out for photo representation difference*
+
+<p align="center">
+  <img src="Photos/DecisionTreeRanking.PNG"> <img src="Photos/FeatureImportanceRunning.PNG">
+</p>
+
 * Add if we take away speed condition with mask
 
 * Add how I masked it
