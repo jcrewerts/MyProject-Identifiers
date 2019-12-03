@@ -115,16 +115,34 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 * Pulling in dataset
 
 <p align="center">
-  <img src="Photos/DataTableWorkSpace.PNG">
+  <img src="Photos/PullDataSet.PNG">
+</p>
+
+* Create Scatter
+<p align="center">
+  <img src="Photos/ScatterMask.PNG">
+</p>
+
+* Create Mask
+<p align="center">
+  <img src="Photos/mask_dataset.PNG">
 </p>
 
 * Heat Map correlation
+
+<p align="center">
+  <img src="Photos/HeatMapCorrelation.PNG"><img src="Photos/HeatMapRunning.PNG">
+</p>
 
 * From heat map, this is a jointplot I created
 
 * creating statistcal methods
 
 *Create Random forest machine learning test dataset and training dataset
+
+<p align="center">
+  <img src="Photos/RandomForestReg.PNG">
+</p>
 
 * Ranked decisions with explanation
 
@@ -154,6 +172,10 @@ Ability to automate and reproduce your analysis (if the file input were to chang
 #### Other things to consider:
 
 * Inclusion of statistical tools
+
+<p align="center">
+  <img src="Photos/StatisticalProp.PNG">
+</p>
 
 * Publication of workflow in a version controlled manner (your code should be on github)
 
