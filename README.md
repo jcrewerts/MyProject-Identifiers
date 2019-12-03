@@ -103,7 +103,7 @@ The IF loop allows us to only run the drive files we want, while also pulling ma
   <img src="Photos/ifLoopDriveFile.PNG">
 </p>
 
-Once all the signals are extracted to the appropiate array, we put them into a data table to be exported to Python.
+Once all the signals are extracted to the appropiate array, we put them into a data table. The *Writeable* command in Matlab will pull the created Data Table into an exported CSV file we can move over to Python for further data analysis.
 
 <p align="center">
   <img src="Photos/DataTableCode.PNG">
@@ -115,41 +115,38 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 
 ### Python
 
-* Pulling in dataset
+The CSV file created in Matlab is copied into the same folder as our Python script and placed into a Pandas table.
 
 <p align="center">
   <img src="Photos/PullDataSet.PNG">
 </p>
 
-* Create Scatter
+From the scatter plot we can see that there are error differences between the two sepearte conditions we notice in a field run, Starting/Stopping and Normal Running. 
+
 <p align="center">
   <img src="Photos/ScatterMask.PNG">
 </p>
 
-* Create Mask
+We created a mask to sepearte these difference conditions so we can better monitor its effect on error.
+
 <p align="center">
   <img src="Photos/mask_dataset.PNG">
 </p>
 
-* Heat Map correlation
+Two heat maps are made from the correlation the different features have with each other. One heat map represents a combinded dataset of both Starting/Stopping and Normal Field Running while the other just evaluates correlation in normal field running.
 
 <p align="center">
   <img src="Photos/HeatMapCorrelation1.PNG"> <img src="Photos/HeatMapRunning.PNG">
 </p>
 
-* From heat map, this is a jointplot I created
-
-* creating statistcal methods
-
-*Create Random forest machine learning test dataset and training dataset
+To evaluate this model we created a Random forest to see what the best predictors are when trying to decide "what causes error".
+Our 16 different features are used as our data inputs and our Max Error is what we are predicting. By creating both a training dataset and a testing dataset, we will be able to see how accurately our model predicted the error.
 
 <p align="center">
   <img src="Photos/RandomForestReg.PNG">
 </p>
 
-* Ranked decisions with explanation
-
-* Features IMportance - Condition
+Afer creating two different random forests, we can see which features are the most important in each of the two models. 
 
 <p align="center">
   <img src="Photos/FeatureImportanceRunStart.PNG"> 
