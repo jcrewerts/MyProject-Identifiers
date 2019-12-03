@@ -20,7 +20,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 <img align="center" src="Photos/EastDairyMap.PNG" width="400" height="400">
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src=""Photos/EastDairyMap.PNG">
 </p>
 
 <p align="center">
