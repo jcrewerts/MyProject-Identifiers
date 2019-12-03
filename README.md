@@ -15,22 +15,21 @@ My goal is to find what causes error in the stability of a boom by scrubbing thr
 </p>
 
 
-#### Field Running
+### Field Running
 
-The data is collected using a data aquisition system on the sprayer and stored in a local repository for referenced. 
+The data is collected using a data aquisition system on the sprayer and stored in a local repository for reference. Axiomatics, CAN bus, tars, potentiometer, ultrasonic, and pressure sensors were all used to aquire signals
 
 <p align="center">
   <img width="500" height="500" src="Photos/EastDairyMap.PNG">
 </p>
 
-#### Boom and Chassis Characteristics
+### Boom and Chassis Characteristics
 
 <p align="center">
   <img src="SixDOF.PNG">
 </p>
 
-<p align="center">Figure 1: TARS Translational Motion Source: Honeywell</p>
-Figure 1: TARS Translational Motion Source: Honeywell
+<p align="center">Source: Honeywell TARS Translational Motion</p>
 
 ### Data Analysis Questions
 
