@@ -205,17 +205,17 @@ These values seem to make sense because they are the statistical differences bet
 
 ### Data Analysis Questions - Answered
 
-Q. What predictors can we use to spot error in the system while in field conditions?
+**Q.** What predictors can we use to spot error in the system while in field conditions?
 
-A. From running both the models it is clear that the most important feautre is Speed, the faster you go, the more error you enduce into the system. This makes sense because as speed increase, so does the momentum of your sprayer which will make impacts "harder". Other important features were Center Frame Roll and Chassis Roll Angle. These are important to take into account because there are finite systems on the machine where we can take a deeper look into what can be changed to lower roll angle or roll rate.
+**A.** From running both the models it is clear that the most important feautre is Speed, the faster you go, the more error you enduce into the system. This makes sense because as speed increase, so does the momentum of your sprayer which will make impacts "harder". Other important features were Center Frame Roll and Chassis Roll Angle. These are important to take into account because there are finite systems on the machine where we can take a deeper look into what can be changed to lower roll angle or roll rate.
 
-Q. Can we somehow change the model we currently use so we are more efficient in testing? e.g. remove insignificant variables
+**Q.** Can we somehow change the model we currently use so we are more efficient in testing? e.g. remove insignificant variables
 
-A. From this project, it appears that potentiometers on the wheels themselves have little to no effect on the error we are encountering. Changes in the position of these wheels do not seem to drive a significant impact in the error. This could be accounted for the error being created by the moving wheels being put into another system like the chassis or susspension.
+**A.** From this project, it appears that potentiometers on the wheels themselves have little to no effect on the error we are encountering. Changes in the position of these wheels do not seem to drive a significant impact in the error. This could be accounted for the error being created by the moving wheels being put into another system like the chassis or susspension.
 
-Q. How do we go about fixing features that are triggering events in boom unstability and error?
+**Q.** How do we go about fixing features that are triggering events in boom unstability and error?
 
-A. To fix feautres like Center Frame Roll Rate or Chassis Roll Angle you will need to dive deeper into a component analysis of each system. For example, my research is self propelled sprayer component analysis of fluid power hydrauilcs for boom height contorl. That research may provide an avenue into answers related to center frame control.
+**A.** To fix feautres like Center Frame Roll Rate or Chassis Roll Angle you will need to dive deeper into a component analysis of each system. For example, my research is self propelled sprayer component analysis of fluid power hydrauilcs for boom height contorl. That research may provide an avenue into answers related to center frame control.
 
 ### Task for Class
 
