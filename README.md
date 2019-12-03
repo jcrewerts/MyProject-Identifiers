@@ -12,7 +12,7 @@ My name is Jake Rewerts and I am a graduate student studying advanced machinery 
 
 ### Introduction
 
-My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terains can cause the boom to move off of target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where boom height performance can be approved. 
+My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terrains can cause the boom to move off target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where boom height performance can be approved. 
 
 <p align="center">
   <img src="Photos/BoomErrorGraphic.PNG">
@@ -21,7 +21,7 @@ My goal is to find what causes error in the stability of a boom by scrubbing thr
 
 ### Field Running
 
-The data is collected using a data aquisition system on the sprayer and stored in a local repository for reference. Axiomatics, CAN bus, tars, potentiometer, ultrasonic, and pressure sensors were all used to aquire signals
+The data is collected using a data aquisition system on the sprayer and stored in a local repository for reference. Axiomatics, CAN bus, tars sensors, linear and rotational potentiometers, ultrasonic sensors, and pressure sensors were all used to aquire signals from the machine.
 
 <p align="center">
   <img width="500" height="500" src="Photos/EastDairyMap.PNG">
@@ -44,11 +44,11 @@ The data is collected using a data aquisition system on the sprayer and stored i
 
 ### Features to be Evaluated
 
-__Center Frame Roll Rate Rotational Potentiometer__ - Description of center frame roll rate using a Rotational Potentiometer
+__Center Frame Roll Rate Rotational Potentiometer__ - Description of center frame roll rate using a rotational potentiometer deg/sec
 
 __Center Frame Roll Rate LVDT__ - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
 
-__Cylinder Pressure__ - Max pressure of the tilt cylinders at a given time
+__Cylinder Pressure__ - Max pressure of the tilt cylinders at a given time psi
 
 __Speed__ - Speed of the self propelled sprayer in km/h
 
@@ -88,17 +88,18 @@ __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and 
 ### Matlab
 
 Each drive file is associated with MetaData that allows us to easily organize the different runs and pull out certain information.
+
 <p align="center">
   <img src="Photos/MetaData.PNG">
 </p>
 
-The data is downsampled to a constant timestep using a created function that will create all signals with the same 25 Hz time step. This will make things easier to plot because they will all be the same size.
+The data is downsampled to a constant timestep using an already created function that will align all signals with the same 25 Hz time step. This will make things easier to plot because all the arrays will be the same size.
 
 <p align="center">
   <img src="Photos/DownSampleFunction.PNG">
 </p>
 
-The IF loop allows us to only run the drive files we want, while also pulling max error from the sensors. Max error is the difference of the commanded boom target height and the actual boom height from the outermost signal.
+The IF loop allows us to only run the drive files we want, while also pulling max error from the sensors. Max error is the difference of the commanded boom target height and the actual boom height from the outermost signal. We will be looking at max error as our identifier throughout the project.
 
 <p align="center">
   <img src="Photos/ifLoopDriveFile.PNG">
@@ -219,4 +220,4 @@ These values seem to make sense because they are the statistical differences bet
 
 ### Task for Class
 
-Using the same approached used for finding correlation and feature importance in deciding error, use the CSV given to create a random forest and decision tree for the sprayer completing a ramp run.
+Using the same approach used for finding correlation and feature importance in boom error during an east-west run, use the given CSV file to create a random forest and decision tree for a ramp run and complete an error evaluation.
