@@ -26,7 +26,7 @@ The data is collected using a data aquisition system on the sprayer and stored i
 #### Boom and Chassis Characteristics
 
 <p align="center">
-  <img width="500" height="500" src="SixDOF.PNG">
+  <img src="SixDOF.PNG">
 </p>
 
 <p align="center">Figure 1: TARS Translational Motion Source: Honeywell</p>
