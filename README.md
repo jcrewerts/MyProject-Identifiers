@@ -15,7 +15,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 #### Paragraph on what my research is about and what I want to solve
 
 * Add picture of field we are testing
-
+![Project](Photos/EastDairyMap.PNG)
 <p align="center">
    <img src="Photos/EastDairyMap.PGN" height="410">
 </p> 
