@@ -23,6 +23,12 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
    <img src="Photos/EastDairyMap.PGN" height="410">
 </p> 
 
+### Sublime's custom image
+<p align="center">
+  <img src="Photos/EastDairyMap.PGN" alt="Sublime's custom image"/>
+</p>
+
+
 * Add picture of boom desciritpion (POS Presentation YAW roll pitch)
 
 <img src="SixDOF.PNG" width="800" height="300">
