@@ -146,7 +146,7 @@ Our 16 different features are used as our data inputs and our Max Error is what 
   <img src="Photos/RandomForestReg.PNG">
 </p>
 
-Afer creating two different random forests, we can see which features are the most important in each of the two models. 
+Afer creating two different random forests, we can see which features are the most important in each of the two models. The features that were important stayed similar on both models, but the percent of importance was changed significantly.
 
 <p align="center">
   <img src="Photos/FeatureImportanceRunStart.PNG"> 
@@ -155,7 +155,7 @@ Afer creating two different random forests, we can see which features are the mo
   <img src="Photos/FeatureImportanceRunning.PNG">
 </p>
 
-* Decision Tree Picture from website
+Using [WebGraphViz.com](http://www.webgraphviz.com/) we are able to create a Decision Tree based off of the array created from our Random Forest. The rankings of the most important factors can be used to see what values have the greatest impact on Machine Error when looking at ways to improve the sprayer system.
 
 <p align="center">
   <img src="Photos/DecisionTree.PNG">
@@ -167,12 +167,16 @@ Afer creating two different random forests, we can see which features are the mo
   <img src="Photos/DecisionTreeRanking.PNG">
 </p>
 
-* Add if we take away speed condition with mask
 
-* Add how I masked it
 
 ### Pros and Cons of using Random Forest/Decison Tree
-
+Pros - 
+  * small number of samples
+  * compuational cost is low
+Cons - 
+  * More samples will not improve accuracy to a certain point
+  * Gets beat by more complicated neural networks that benefit from large samples
+  
 ### Paragraph on topics below
 
 Incorporation of topics relevant to this class  - what from the class did you use in this project and why might it be useful for research projects like this?  What are the advantages and disadvantages?  Were there any assumptions or transformations needed?
