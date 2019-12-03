@@ -15,30 +15,11 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 #### Paragraph on what my research is about and what I want to solve
 
 * Add picture of field we are testing
-![Project](Photos/EastDairyMap.PNG){.center}
-
-<img align="center" src="Photos/EastDairyMap.PNG" width="400" height="400">
 
 <p align="center">
-  <img width="460" height="300" src="Photos/EastDairyMap.PNG">
+  <img width="300" height="500" src="Photos/EastDairyMap.PNG">
 </p>
 
-### Try
-
-<div style="text-align:center"><img src="Headshot.jpg" /></div> 
-
-<p align="center">
-   <img src="Photos/EastDairyMap.PGN" height="410">
-</p> 
-
-### Sublime's custom image
-<p align="center">
-  <img src="https://https://github.com/jcrewerts/MyProject-Identifiers/tree/master/Photos/EastDairyMap.PNG"/>
-</p>
-
-<p align="center">
-  <img />
-</p>
 * Add picture of boom desciritpion (POS Presentation YAW roll pitch)
 
 <img src="SixDOF.PNG" width="800" height="300">
