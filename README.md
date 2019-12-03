@@ -22,6 +22,9 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 <p align="center">
   <img width="460" height="300" src=""Photos/EastDairyMap.PNG>
 </p>
+### Try
+
+<div style="text-align:center"><img src="Photos/EastDairyMap.PGN" /></div> 
 
 <p align="center">
    <img src="Photos/EastDairyMap.PGN" height="410">
