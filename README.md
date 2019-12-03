@@ -138,7 +138,9 @@ Two heat maps are made from the correlation the different features have with eac
 
 <p align="center">
   <img src="Photos/HeatMapCorrelation1.PNG"> 
-  
+</p>
+
+<p align="center">
   <img src="Photos/HeatMapRunning.PNG">
 </p>
 
@@ -154,6 +156,7 @@ Afer creating two different random forests, we can see which features are the mo
 <p align="center">
   <img src="Photos/FeatureImportanceRunStart.PNG"> 
 </p>
+
 <p align="center">
   <img src="Photos/FeatureImportanceRunning.PNG">
 </p>
@@ -169,10 +172,13 @@ Using [WebGraphViz.com](http://www.webgraphviz.com/) we are able to create a Dec
 <p align="center">
   <img src="Photos/DecisionTreeRanking.PNG">
 </p>
+  
+## Conclusion
 
-
+I decided random forest would be the best machine learning method for my project because it would be able to rank my results of the impact each feature had on boom error stability. From the course in general though, this project would not have been possible wihtout the knowledge we recieved about data wrangling and data scrubbing. The data from the sensors was noisy and had different sample rates, so being able to "clean" that data before use was crucial in being able to understand it.
 
 ### Pros and Cons of using Random Forest/Decison Tree
+
 Pros - 
   * small number of samples
   * compuational cost is low
@@ -181,10 +187,6 @@ Cons -
   * More samples will not improve accuracy to a certain point
   * Gets beat by more complicated neural networks that benefit from large samples
   
-### Paragraph on topics below
-
-I decided random forest would be the best machine learning method for my project because it would be able to rank my results of the impact each feature had on boom error stability. From the course in general though, this project would not have been possible wihtout the knowledge we recieved about data wrangling and data scrubbing. The data from the sensors was noisy and had different sample rates, so being able to "clean" that data before use was crucial in being able to understand it.
-
 ### Repeatability
 
 To repeat this project, you will first need to select a .mat file that has already been created and stored in the local respository. If that is in the same folder as your Matlab Call Script, it will create a CSV file you can extract to Python. The only thin you will need to do is copy the CSV file from your Matlab folder, to your Python folder.
