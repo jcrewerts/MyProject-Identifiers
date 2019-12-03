@@ -16,7 +16,8 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 * Add picture of field we are testing
 ![Project](Photos/EastDairyMap.PNG)
-<img alight="center" src="Photos/EastDairyMap.PNG" width="400" height="400">
+
+<img align="center" src="Photos/EastDairyMap.PNG" width="400" height="400">
 
 <p align="center">
    <img src="Photos/EastDairyMap.PGN" height="410">
