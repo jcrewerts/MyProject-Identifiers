@@ -25,7 +25,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 ### Sublime's custom image
 <p align="center">
-  <img src="https://github.com/jcrewerts/MyProject-Identifiers/edit/master/Photos/EastDairyMap.PNG?raw=true" alt="Sublime's custom image"/>
+  <img src="https://https://github.com/jcrewerts/MyProject-Identifiers/Photos/EastDairyMap.PNG" alt="Sublime's custom image"/>
 </p>
 
 
