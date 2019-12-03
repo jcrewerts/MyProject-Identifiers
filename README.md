@@ -2,16 +2,18 @@
 
 ### About
 
-My name is Jake and I am a graduate student studying off-highway equipment.
+My name is Jake Rewerts and I am a graduate student studying advanced machinery engineering and manufactoring systems at Iowa State. I am studying underneath Dr. Darr and my research involves hydraulic component analysis on self propelled sprayers.
 
 <img src="HeadShot.jpg" width="400" height="400">
 
-### Introduction to a research question
+## Project Scope
+
+### Introduction
 
 My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terains can cause the boom to move off of target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where boom height performance can be approved. 
 
 <p align="center">
-  <img width="1100" height="300" src="Photos/BoomErrorGraphic.PNG">
+  <img width="1100" height="350" src="Photos/BoomErrorGraphic.PNG">
 </p>
 
 
@@ -37,13 +39,9 @@ The data is collected using a data aquisition system on the sprayer and stored i
 2. Can we somehow change the model we currently use so we are more efficient in testing? e.g. remove insignificant variables
 3. How do we go about fixing features that are triggering events in boom unstability and error?
 
-#### Clear identification of data inputs
+### Features to be Evaluated
 
-* Feature list with descriptions
-
-## Features
-
-__Center Frame Roll Rate Deere Sensor__ - Description of center frame roll rate using IMU
+__Center Frame Roll Rate Rotational Potentiometer__ - Description of center frame roll rate using IMU
 
 __Center Frame Roll Rate LVDT__ - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
 
