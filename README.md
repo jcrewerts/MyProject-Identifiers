@@ -148,6 +148,10 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 
 * Features IMportance - Condition
 
+<p align="center">
+  <img src="Photos/FeatureImportanceRunStart.PNG"> <img src="Photos/FeatureImportanceRunning.PNG">
+</p>
+
 * Decision Tree Picture from website
 
 * Add if we take away speed condition with mask
