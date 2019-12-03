@@ -128,7 +128,7 @@ Ability to automate and reproduce your analysis (if the file input were to chang
 * How do I automate this analysis
 * Add steps
 
-#### Other things I will look for:
+#### Other things to consider:
 
 * Inclusion of statistical tools
 
