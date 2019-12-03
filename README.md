@@ -33,7 +33,7 @@ The data is collected using a data aquisition system on the sprayer and stored i
   <img src="SixDOF.PNG">
 </p>
 
-Source: [HoneyWell TARS IMU](https://sensing.honeywell.com/honeywell-sensing-tars-imu-datasheet-000828.pdf)
+\*Source: [HoneyWell TARS IMU](https://sensing.honeywell.com/honeywell-sensing-tars-imu-datasheet-000828.pdf)
 
 
 ### Data Analysis Questions
