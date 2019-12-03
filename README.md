@@ -41,7 +41,7 @@ The data is collected using a data aquisition system on the sprayer and stored i
 
 ### Features to be Evaluated
 
-__Center Frame Roll Rate Rotational Potentiometer__ - Description of center frame roll rate using IMU
+__Center Frame Roll Rate Rotational Potentiometer__ - Description of center frame roll rate using a Rotational Potentiometer
 
 __Center Frame Roll Rate LVDT__ - A linear variable differential transformer reports the roll angle of the center frame in deg/sec
 
@@ -81,25 +81,30 @@ __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and 
 Project Workflow:
 
 ![Project Workflow](WorkFlow.png)
-<p align="center">Figure 2: Project Workflow</p>
+<p align="center">Project Workflow</p>
 
 ### Matlab
 
 * Add picture of MatFile scripting
 
-* Add picture of DownSample
+The data is downsampled to a constant timestep using a created function that will create all signals with the same 25 Hz time step. This will make things easier to plot because they will all be the same size.
+
 <p align="center">
   <img src="Photos/DownSampleFunction.PNG">
 </p>
-* Add picture of if loop
+
+The IF loop allows us to only run the drive files we want, while also pulling max error from the sensors. Max error is the difference of the commanded boom target height and the actual boom height from the outermost signal.
+
 <p align="center">
   <img src="Photos/ifLoopDriveFile.PNG">
 </p>
-* Add picture of if loop for Error (description)
+
+Once all the signals are extracted to the appropiate array, we put them into a data table to be exported to Python.
+
 <p align="center">
   <img src="Photos/DataTableCode.PNG">
 </p>
-* Add picture of data table
+
 <p align="center">
   <img src="Photos/DataTableWorkSpace.PNG">
 </p>
