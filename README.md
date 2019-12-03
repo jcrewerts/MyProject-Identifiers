@@ -4,7 +4,10 @@
 
 My name is Jake Rewerts and I am a graduate student studying advanced machinery engineering and manufactoring systems at Iowa State. I am studying underneath Dr. Darr and my research involves hydraulic component analysis on self propelled sprayers.
 
-<img src="HeadShot.jpg" width="400" height="400">
+<p align="center">
+  <img src="HeadShot.jpg" width="400" height="400">
+</p>
+
 
 ## Project Scope
 
@@ -180,21 +183,19 @@ Incorporation of topics relevant to this class  - what from the class did you us
 
 ### Repeatability
 
-Ability to automate and reproduce your analysis (if the file input were to change, could this analysis be reproduced and how easily?)  - how will someone else reproduce this analysis?  Is the data stored somewhere?  Can I reproduce the figures easily?
+To repeat this project, you will first need to select a .mat file that has already been created and stored in the local respository. If that is in the same folder as your Matlab Call Script, it will create a CSV file you can extract to Python. The only thin you will need to do is copy the CSV file from your Matlab folder, to your Python folder.
 
-* Add links to python and matlab script
-* How do I automate this analysis
-* Add steps
+* Matlab [I'm a relative reference to a repository file](../blob/master/LICENSE)
+* Python [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-#### Other things to consider:
 
-* Inclusion of statistical tools
+### Statistical tools
 
 <p align="center">
   <img src="Photos/StatisticalProp.PNG">
 </p>
 
-* Publication of workflow in a version controlled manner (your code should be on github)
+These values seem to make sense because they are the statistical differences between the model and training data. One may think that 5000 is a large value for a statistical metric but the units are mm.^2. i.e. 25.4 mm = 1 in and the modeled data.
 
 ### Data Analysis Questions - Answered
 
