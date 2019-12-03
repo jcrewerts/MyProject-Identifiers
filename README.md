@@ -78,14 +78,15 @@ __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and 
 
 ### Project Workflow
 
-Project Workflow:
-
 ![Project Workflow](WorkFlow.png)
 <p align="center">Project Workflow</p>
 
 ### Matlab
 
-* Add picture of MatFile scripting
+Each drive file is associated with MetaData that allows us to easily organize the different runs and pull out certain information.
+<p align="center">
+  <img src="Photos/MetaData.PNG">
+</p>
 
 The data is downsampled to a constant timestep using a created function that will create all signals with the same 25 Hz time step. This will make things easier to plot because they will all be the same size.
 
@@ -112,6 +113,10 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 ### Python
 
 * Pulling in dataset
+
+<p align="center">
+  <img src="Photos/DataTableWorkSpace.PNG">
+</p>
 
 * Heat Map correlation
 
