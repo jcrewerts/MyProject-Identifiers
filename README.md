@@ -136,7 +136,9 @@ We created a mask to sepearte these difference conditions so we can better monit
 Two heat maps are made from the correlation the different features have with each other. One heat map represents a combinded dataset of both Starting/Stopping and Normal Field Running while the other just evaluates correlation in normal field running.
 
 <p align="center">
-  <img src="Photos/HeatMapCorrelation1.PNG"> <img src="Photos/HeatMapRunning.PNG">
+  <img src="Photos/HeatMapCorrelation1.PNG"> 
+  
+  <img src="Photos/HeatMapRunning.PNG">
 </p>
 
 To evaluate this model we created a Random forest to see what the best predictors are when trying to decide "what causes error".
@@ -173,6 +175,7 @@ Using [WebGraphViz.com](http://www.webgraphviz.com/) we are able to create a Dec
 Pros - 
   * small number of samples
   * compuational cost is low
+  
 Cons - 
   * More samples will not improve accuracy to a certain point
   * Gets beat by more complicated neural networks that benefit from large samples
@@ -186,9 +189,9 @@ Incorporation of topics relevant to this class  - what from the class did you us
 
 To repeat this project, you will first need to select a .mat file that has already been created and stored in the local respository. If that is in the same folder as your Matlab Call Script, it will create a CSV file you can extract to Python. The only thin you will need to do is copy the CSV file from your Matlab folder, to your Python folder.
 
-* Matlab [I'm a relative reference to a repository file](../blob/master/LICENSE)
-* Python [I'm a relative reference to a repository file](../blob/master/LICENSE)
-
+* Matlab [Code](Matlab)
+* Python [Code](Python/Project)
+(../blob/master/LICENSE)
 
 ### Statistical tools
 
@@ -214,4 +217,4 @@ A. fdfkd
 
 ### Task for Class
 
-* Task about CSV of Ramp and creating Decision Tree. How does this relate to the E-W runs
+Using the same approached used for finding correlation and feature importance in deciding error, use the CSV given to create a random forest and decision tree for the sprayer completing a ramp run.
