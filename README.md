@@ -131,7 +131,7 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 * Heat Map correlation
 
 <p align="center">
-  <img src="Photos/HeatMapCorrelation.PNG"><img src="Photos/HeatMapRunning.PNG">
+  <img src="Photos/HeatMapCorrelation.PNG"> | <img src="Photos/HeatMapRunning.PNG">
 </p>
 
 * From heat map, this is a jointplot I created
