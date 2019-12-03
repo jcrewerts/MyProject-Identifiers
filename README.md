@@ -33,7 +33,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 
 ### Sublime's custom image
 <p align="center">
-  <img src="https://https://github.com/jcrewerts/MyProject-Identifiers/tree/master/Photos/EastDairyMap.PNG" alt="Sublime's custom image">
+  <img src="https://https://github.com/jcrewerts/MyProject-Identifiers/tree/master/Photos/EastDairyMap.PNG"/>
 </p>
 
 <p align="center">
