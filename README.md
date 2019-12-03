@@ -81,19 +81,28 @@ __Left Rear Potentiometer__ - Linear distance the left rear tire strokes in and 
 Project Workflow:
 
 ![Project Workflow](WorkFlow.png)
-Figure 2: Project Workflow
+<p align="center">Figure 2: Project Workflow</p>
 
 ### Matlab
 
-* Add picture of matlab scripting
+* Add picture of MatFile scripting
 
 * Add picture of DownSample
-
+<p align="center">
+  <img src="Photos/DownSampleFunction.PNG">
+</p>
 * Add picture of if loop
-
+<p align="center">
+  <img src="Photos/ifLoopDriveFile.PNG">
+</p>
 * Add picture of if loop for Error (description)
-
+<p align="center">
+  <img src="Photos/DataTableCode.PNG">
+</p>
 * Add picture of data table
+<p align="center">
+  <img src="Photos/DataTableWorkSpace.PNG">
+</p>
 
 ### Python
 
