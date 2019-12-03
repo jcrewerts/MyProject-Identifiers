@@ -13,7 +13,7 @@ My name is Jake Rewerts and I am a graduate student studying advanced machinery 
 My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terains can cause the boom to move off of target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where boom height performance can be approved. 
 
 <p align="center">
-  <img width="1100" height="350" src="Photos/BoomErrorGraphic.PNG">
+  <img src="Photos/BoomErrorGraphic.PNG">
 </p>
 
 
