@@ -161,7 +161,7 @@ Once all the signals are extracted to the appropiate array, we put them into a d
   <img src="Photos/DecisionTree.PNG">
 </p>
 
-    *Decision Tree was too spread out for photo representation difference*
+\*Decision Tree was too spread out for photo representation difference
 
 <p align="center">
   <img src="Photos/DecisionTreeRanking.PNG">
