@@ -149,7 +149,10 @@ Once all the signals are extracted to the appropiate array, we put them into a d
 * Features IMportance - Condition
 
 <p align="center">
-  <img src="Photos/FeatureImportanceRunStart.PNG"> <img src="Photos/FeatureImportanceRunning.PNG">
+  <img src="Photos/FeatureImportanceRunStart.PNG"> 
+</p>
+<p align="center">
+  <img src="Photos/FeatureImportanceRunning.PNG">
 </p>
 
 * Decision Tree Picture from website
@@ -158,10 +161,10 @@ Once all the signals are extracted to the appropiate array, we put them into a d
   <img src="Photos/DecisionTree.PNG">
 </p>
 
-*Decision Tree was too spread out for photo representation difference*
+    *Decision Tree was too spread out for photo representation difference*
 
 <p align="center">
-  <img src="Photos/DecisionTreeRanking.PNG"> <img src="Photos/FeatureImportanceRunning.PNG">
+  <img src="Photos/DecisionTreeRanking.PNG">
 </p>
 
 * Add if we take away speed condition with mask
