@@ -17,7 +17,7 @@ What kind of data is avialble?  How is your data collected?  Are there any conce
 * Add picture of field we are testing
 
 <p align="center">
-  <img width="700" height="500" src="Photos/EastDairyMap.PNG">
+  <img width="500" height="500" src="Photos/EastDairyMap.PNG">
 </p>
 
 * Add picture of boom desciritpion (POS Presentation YAW roll pitch)
