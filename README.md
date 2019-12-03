@@ -6,12 +6,12 @@ My name is Jake and I am a graduate student studying off-highway equipment.
 
 <img src="HeadShot.jpg" width="400" height="400">
 
-### Introduction to a research question (what is the background on this subject; why does the question matter; who will it help; how has been attempted to be answered)
+### Introduction to a research question
 
-My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terains can cause the boom to move off of target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where performance can be approved. 
+My goal is to find what causes error in the stability of a boom by scrubbing through data of field running. Self propelled sprayers are used to apply chemicals to fields that are used for row crops or pastures. When the sprayer is being driven across the field, different terains can cause the boom to move off of target height. This can cause spray drift and/or enadequate coverage of chemicals. My hope is too look at data aquired from different sensors on the sprayer to identify points where boom height performance can be approved. 
 
 <p align="center">
-  <img width="500" height="500" src="Photos/BoomErrorGraphic.PNG">
+  <img width="800" height="300" src="Photos/BoomErrorGraphic.PNG">
 </p>
 
 What kind of data is avialble?  How is your data collected?  Are there any concerns about the data?  Which data is the most relevant?  Is the data easy to acccess? Will the data change over time?  What needs to be done to the data to get it ready for any downstream analysis?
