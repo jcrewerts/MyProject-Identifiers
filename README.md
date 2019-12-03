@@ -8,7 +8,6 @@ My name is Jake Rewerts and I am a graduate student studying advanced machinery 
   <img src="HeadShot.jpg" width="400" height="400">
 </p>
 
-
 ## Project Scope
 
 ### Introduction
@@ -34,7 +33,8 @@ The data is collected using a data aquisition system on the sprayer and stored i
   <img src="SixDOF.PNG">
 </p>
 
-<p align="center">Source: [Honeywell TARS Translational Motion](https://sensing.honeywell.com/honeywell-sensing-tars-imu-datasheet-000828.pdf)</p>
+Source: [HoneyWell TARS IMU](https://sensing.honeywell.com/honeywell-sensing-tars-imu-datasheet-000828.pdf)
+
 
 ### Data Analysis Questions
 
